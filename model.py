@@ -3,7 +3,7 @@ import math
 from project_types import Feedback
 
 
-class SubtractASquareGame:
+class SubtractASquareModel:
     def __init__(self, n: int, player_count: int):
         if n <= 0:
             raise ValueError(f'n must be nonnegative (was {n})')
