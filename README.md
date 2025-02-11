@@ -16,4 +16,4 @@ For this exercise, you may place input parsing logic in the controller.
 
 For this exercise, you may be in charge of what exactly is printed, in what order they are printed, and when input is taken from the user as long as the game can be _sensibly_ played _(i.e., there is enough information provided to the players)_.
 
-Ensure that the number of players taken from the user prior to instantiating the model.
+Ensure that the number of players taken from the user prior to instantiating the model and that **exceptions raised are handled gracefully** _(i.e., the exception must be caught with an appropriate error message shown to the user followed by proper termination of the game)_.
