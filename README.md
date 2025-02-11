@@ -12,7 +12,7 @@ Instead of searching online on how the game works, you are strongly encouraged t
 
 For this exercise, you may place input parsing logic in the controller.
 
-## I/O specificarion
+## I/O specification
 
 For this exercise, you may be in charge of what exactly is printed, in what order they are printed, and when input is taken from the user as long as the game can be _sensibly_ played _(i.e., there is enough information provided to the players)_.
 
